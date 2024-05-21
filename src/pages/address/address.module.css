@@ -28,7 +28,7 @@
   font-size: 16px;
 }
 
-.button{
+.button {
   height: 40px;
   border-radius: 8px;
   border:0;
@@ -36,4 +36,12 @@
   background-color: #3366FF;
   padding: 0 14px;
   font-size: 16px;
+}
+.btnDelete {
+  margin-left: 16px;
+  background-color: red;
+  padding: 4px;
+  border: 0;
+  border-radius: 4px;
+  color: white;
 }
